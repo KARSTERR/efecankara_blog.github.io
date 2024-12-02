@@ -2,7 +2,7 @@ title:              KARSTERR Blog
 email:              efecan_kara@proton.me
 description:        Tech themed blogposts and guides.
 author:             Efe Can Kara
-baseurl:            "/efecankara_blog.github.io/"
+baseurl:            "/efecankara_blog.github.io"
 url:                "https://karsterr.github.io/efecankara_blog.github.io/"
 
 # Social Profiles
