@@ -1,19 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            ""
-url:                "https://efecankara_blog.github.io"
+title:              KARSTERR Blog
+email:              efecan_kara@proton.me
+description:        Tech themed blogposts and guides.
+author:             Efe Can Kara
+baseurl:            "/efecankara_blog.github.io/"
+url:                "https://karsterr.github.io/efecankara_blog.github.io/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
-
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+github_username:    KARSTERR
+instagram_username:  @efecankra
+linkedin_username: karsterr
 
 # Build settings
 markdown:           kramdown
